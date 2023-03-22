@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelEventExample2", "DelEventExample2\DelEventExample2.csproj", "{F4F1BC1D-BC64-4E3B-968F-76C6AC07632F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F1BC1D-BC64-4E3B-968F-76C6AC07632F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F1BC1D-BC64-4E3B-968F-76C6AC07632F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F1BC1D-BC64-4E3B-968F-76C6AC07632F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F1BC1D-BC64-4E3B-968F-76C6AC07632F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {762DC617-81BD-486D-A67F-2DE533FFB531}
+	EndGlobalSection
+EndGlobal

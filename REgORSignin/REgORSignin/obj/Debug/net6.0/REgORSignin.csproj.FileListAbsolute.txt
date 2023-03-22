@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\obj\Debug\net6.0\REgORSignin.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\obj\Debug\net6.0\REgORSignin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\obj\Debug\net6.0\REgORSignin.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\obj\Debug\net6.0\REgORSignin.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\obj\Debug\net6.0\REgORSignin.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\bin\Debug\net6.0\REgORSignin.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\bin\Debug\net6.0\REgORSignin.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\bin\Debug\net6.0\REgORSignin.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\bin\Debug\net6.0\REgORSignin.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\bin\Debug\net6.0\REgORSignin.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\obj\Debug\net6.0\REgORSignin.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\obj\Debug\net6.0\refint\REgORSignin.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\obj\Debug\net6.0\REgORSignin.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\obj\Debug\net6.0\REgORSignin.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\REgORSignin\REgORSignin\obj\Debug\net6.0\ref\REgORSignin.dll
